@@ -1,14 +1,13 @@
-<<<<<<< HEAD
 # Personal Portfolio
 A responsive portfolio website showcasing my profile, skills, projects and professional links.
 
 ## Live Portfolio
 
-[https://your-name.vercel.app](https://github.com/An6030/portfolio.git)
 
+<img width="1363" height="598" alt="Screenshot 2026-10-22 220746" src="https://github.com/user-attachments/assets/02c48918-8706-429a-a8e6-a2ad1397bc64" />
 
-<img width="1192" height="738" alt="image" src="https://github.com/user-attachments/assets/64bd6804-f63f-474d-b993-af375a201bb5" />
-<img width="1324" height="840" alt="image" src="https://github.com/user-attachments/assets/22173911-241e-4119-90ed-e8d8cf1fc864" />
+<img width="1312" height="609" alt="Screenshot 2026-10-22 220754" src="https://github.com/user-attachments/assets/23404361-3606-4a1c-9482-41e26e07910f" />
+
 
 ## Tech Stack
 
@@ -38,4 +37,4 @@ A responsive portfolio website showcasing my profile, skills, projects and profe
 - It does not currently include a backend or contact form submission service.
 =======
 # Portfolio-
->>>>>>> 3fd032642d0a1d59bd877e0bf7529dadb1853f8e
+file:///C:/Users/WELCOME/Desktop/portfolio/por/index.html
