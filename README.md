@@ -4,9 +4,14 @@ A responsive portfolio website showcasing my profile, skills, projects and profe
 ## Live Portfolio
 
 
-<img width="1363" height="598" alt="Screenshot 2026-10-22 220746" src="https://github.com/user-attachments/assets/02c48918-8706-429a-a8e6-a2ad1397bc64" />
+<img width="1351" height="623" alt="Screenshot 2026-10-22 225246" src="https://github.com/user-attachments/assets/59b544e8-12f8-4f75-af49-470dc7c0c352" />
 
-<img width="1312" height="609" alt="Screenshot 2026-10-22 220754" src="https://github.com/user-attachments/assets/23404361-3606-4a1c-9482-41e26e07910f" />
+<img width="1353" height="609" alt="Screenshot 2026-10-22 225254" src="https://github.com/user-attachments/assets/e7420fb9-37ea-4a58-8bab-a80eda388552" />
+
+<img width="1334" height="609" alt="Screenshot 2026-10-22 225300" src="https://github.com/user-attachments/assets/72abf9f4-bae3-4013-9242-6d41aabcc67f" />
+
+<img width="1345" height="603" alt="Screenshot 2026-10-22 225310" src="https://github.com/user-attachments/assets/4f1e9d5e-7616-4d19-9469-081c05288d34" />
+
 
 
 ## Tech Stack
