@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kanishka Tripathi | Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="chatbot.css">
+</head>
+<body>
+  <header class="site-header">
+    <p class="eyebrow">Personal Portfolio</p>
+    <h1>Kanishka Tripathi</h1>
+    <p class="tagline">Aspiring Software Developer | AI & Data Science Student</p>
+  </header>
+
+  <main>
+    <section class="about" aria-labelledby="about-heading">
+      <h2 id="about-heading">About Me</h2>
+      <p>
+        Hi, I'm Kanishka Tripathi, a B.Tech student specializing in
+        Artificial Intelligence and Data Science. I'm passionate about
+        technology, problem-solving, and exploring how software and AI
+        can be used to solve real-world problems.
+      </p>
+      <p>
+        I'm continuously learning new technologies, developing my
+        technical skills, and working on projects that help me gain
+        practical experience. I'm eager to learn, collaborate with
+        others, and grow as a developer.
+      </p>
+    </section>
+
+    <section class="skills" aria-labelledby="skills-heading">
+      <h2 id="skills-heading">Skills</h2>
+      <ul>
+        <li>To be added</li>
+        <li>To be added</li>
+        <li>To be added</li>
+        <li>To be added</li>
+        <li>To be added</li>
+      </ul>
+    </section>
+
+    <section class="projects" aria-labelledby="projects-heading">
+      <h2 id="projects-heading">Projects</h2>
+      <ul>
+        <li>
+          <a href="#projects-heading">Project 1 — Details coming soon</a>
+          <p>Project description will be added soon.</p>
+        </li>
+        <li>
+          <a href="#projects-heading">Project 2 — Details coming soon</a>
+          <p>Project description will be added soon.</p>
+        </li>
+        <li>
+          <a href="#projects-heading">Project 3 — Details coming soon</a>
+          <p>Project description will be added soon.</p>
+        </li>
+      </ul>
+    </section>
+  </main>
+
+  <section id="weather">
+    <h2>Weather</h2>
+
+    <input
+      type="text"
+      id="cityInput"
+      placeholder="Enter a city"
+    >
+
+    <button id="weatherButton" type="button">
+      Get Weather
+    </button>
+
+    <div id="weatherResult">
+      Enter a city to see the weather.
+    </div>
+  </section>
+
+  <section id="aiChatSection" class="ai-chat">
+    <h2>Ask My AI Assistant</h2>
+
+    <p>
+      Ask questions about my portfolio, projects, skills,
+      and technologies.
+    </p>
+
+    <div id="chatMessages" aria-live="polite"></div>
+
+    <div class="chat-controls">
+      <input
+        type="text"
+        id="userInput"
+        placeholder="Ask a question..."
+      >
+
+      <button id="sendButton" type="button">
+        Send
+      </button>
+    </div>
+
+    <p id="chatStatus" role="status"></p>
+
+    <p class="chat-note">
+      AI chat is available during the local classroom
+      demonstration only.
+    </p>
+  </section>
+
+  <footer class="site-footer">
+    <p>
+      Kanishka Tripathi —
+      Contact:
+      <a href="mailto:kanishkat1234@gmail.com">
+        kanishkat1234@gmail.com
+      </a>
+    </p>
+  </footer>
+
+  <button id="themeToggle" type="button">
+    Switch to Dark Mode
+  </button>
+
+  <script src="script.js"></script>
+  <script src="config.js"></script>
+  <script src="chatbot.js"></script>
+</body>
+</html>
+
