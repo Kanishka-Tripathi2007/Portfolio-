@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Portfolio
 A responsive portfolio website showcasing my profile, skills, projects and professional links.
 
@@ -35,3 +36,6 @@ A responsive portfolio website showcasing my profile, skills, projects and profe
 - The portfolio is a static website.
 - Project information must be updated manually.
 - It does not currently include a backend or contact form submission service.
+=======
+# Portfolio-
+>>>>>>> 3fd032642d0a1d59bd877e0bf7529dadb1853f8e
